@@ -1,0 +1,21 @@
+Minimum:
+Side-scrolling asteroid avoidance game
+Asteroids get faster and faster as more time spent in level
+Need to pick up certain amount of fuel to advance level
+
+Additions:
+Pick up scraps throughout level to heal ship
+Shoot special asteroids to mine for resources that give bonus (extra hp? life? powerup?)
+Ability to shoot should be limited by quantity or overheat mechanic?
+Boss fight to pick up key item to warp to next section?
+Permanant upgrades after reaching certain resource or scrap goal?
+Eventually sweet space graphics and cool scifi naming conventions
+ 
+
+Power ups:
+Extended shooting allowance before overheat?
+Different types of shooting (split, laser, +strength, etc)
+Temporarily slow obstacles
+Temp more fuel
+Temp invuln shields
+Temp damage reduced shields
