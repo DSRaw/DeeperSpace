@@ -1,7 +1,7 @@
 # DeeperSpace
 Side-scrolling asteroid avoidance game
 
-v0.0.0.a
+**v0.0.0.a**
 It's ugly, but functional.
 
 Movement with WASD or arrow keys
